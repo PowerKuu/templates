@@ -15,7 +15,7 @@
     "vite-plugin-solid": "^2.3.0"
   },
   "dependencies": {
-    "@klevn/solid-router": "^1.0.8",
+    "@klevn/solid-router": "^2.0.0",
     "solid-js": "^1.5.1"
   }
 }
