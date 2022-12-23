@@ -1,4 +1,4 @@
-import { router } from "@klevn/solid-router" 
+import router from "@klevn/solid-router" 
 import './index.css'
 
 router.add("/", () => {
