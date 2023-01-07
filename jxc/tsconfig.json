@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "jsx": "preserve",
+        "jsxFactory": "_compiler.factory",
+
+        "types": ["@klevn/jxc/src/types/jsx"]
+    },
+
+
+    "include": ["routes"],
+}

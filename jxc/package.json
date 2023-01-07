@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "scripts": {
+    "build": "npx @klevn/jxc build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@klevn/jxc": "^8.0.9"
+  }
+}
