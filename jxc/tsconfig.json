@@ -6,6 +6,5 @@
         "types": ["@klevn/jxc/src/types/jsx", "@klevn/jxc/src/types/modules"]
     },
 
-
     "include": ["routes"],
 }
