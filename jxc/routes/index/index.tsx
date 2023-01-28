@@ -1,3 +1,7 @@
+import layout from "@klevn/jxc-bricks"
+
+const Layout = layout()
+
 export default () => {
     return <html lang="en">
         <head>

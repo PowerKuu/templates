@@ -8,6 +8,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@klevn/jxc": "^17.0.0"
+    "@klevn/jxc": "latest",
+    "@klevn/jxc-bricks": "latest"
   }
 }
