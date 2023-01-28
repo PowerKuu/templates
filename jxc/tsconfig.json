@@ -3,7 +3,7 @@
         "jsx": "preserve",
         "jsxFactory": "_compiler.factory",
 
-        "types": ["@klevn/jxc/src/types/jsx", "@klevn/jxc/src/types/modules"]
+        "types": ["@klevn/jxc/src/types/jsx", "@klevn/jxc/src/types/compiler", "@klevn/jxc/src/types/modules"]
     },
 
     "include": ["routes"],
