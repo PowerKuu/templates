@@ -1,7 +1,8 @@
 {
   "version": "1.0.0",
   "scripts": {
-    "build": "npx @klevn/jxc build"
+    "build": "npx @klevn/jxc build",
+    "dev": "npx @klevn/jxc dev"
   },
   "keywords": [],
   "author": "",
