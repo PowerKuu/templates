@@ -1,0 +1,80 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@200;300;400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@200;300;400;500;600&display=swap");
+
+
+:root {
+    --text: #7C7C7C;
+    --color: #4870FF;
+    --contrast: #21212E;
+    --weak: #E3E3E3;
+
+    --padding: 6rem;
+}
+
+
+html {
+    font-size: 20px;
+}
+
+body {
+    font-family: "Inter", sans-serif;
+}
+
+main {
+    padding: 6rem var(--padding);
+}
+
+p, a {
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+h1 {
+    font-weight: 600;
+    font-size: 3.25rem;
+
+    color: var(--contrast);
+}
+
+h1 span {
+    font-weight: 600;
+    color: var(--color);
+    text-decoration: underline;
+}
+
+h2 {
+    font-weight: 600;
+    font-size: 3.25rem;
+
+    color: var(--contrast);
+}
+
+h3 {
+    text-decoration: underline;
+    font-size: 1.5rem;
+
+    color: var(--contrast);
+}
+
+span {
+    font-weight: 600;
+    font-size: inherit;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    color: var(--text);
+}
+
+.icon {
+    width: 2.5rem;
+    height: 2.5rem;
+}
+.center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
